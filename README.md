@@ -33,4 +33,4 @@ I'm a Postgraduate Student living in Bangi, Selangor. I love to read, enjoy musi
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:hello@fakhrul.my">![hello@fakhrul.my](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fakhrulazran/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:hello@fakhrul.my">![hello@fakhrul.my](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fakhrul/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
