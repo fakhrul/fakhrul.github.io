@@ -1,6 +1,6 @@
 ![Fakhrul azran Nawi](./banner.png)
-<!-- <h2 align='center'>Fakhrul Azran Nawi @ Fakhrul</h2>
-<p align='center'><b>Self employed. Passionate on Vision A.I., Deep Learning and Robotics</b></p> -->
+<h2 align='center'>Fakhrul Azran Nawi @ Fakhrul</h2>
+<p align='center'><b>Self employed. Passionate on Vision A.I., Deep Learning and Robotics</b></p>
 
 <h2>Hey! 👋</h2>
 
