@@ -2,14 +2,31 @@
 <h2 align='center'>Fakhrul Azran Nawi</h2>
 <p align='center'><b>Self employed. Passionate on Vision A.I., Deep Learning and Robotics</b></p>
 
-<h2>Hey! 👋</h2>
+<h2>Hi! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fakhrul.fakhrul.github.io)](https://github.com/fakhrul) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/fakhrul?tab=followers)
 
 I'm Fakrhul Azran! 
 - <i>Currently:</i> Self employed doing Software Development stuff. 
-- <i>Studies:</i> MSc Data Science at UKM, and B.Eng Electronics Eng. at MMU
+- <i>Employment:</i> SAFA Integrated Sdn Bhd. 
+- <i>Education:</i> MSc Data Science at UKM, and B.Eng Electronics Eng. at MMU
 
+<h2>💻 I'm Currently working on:</h2>
+<h4>#Autonomous Drone for landing on moving platform</h4>
+<div>
+  <p>
+    <a href="https://github.com/fakhrul/drone_landing">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fakhrul&repo=drone_landing&show_owner=True" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+[![VIDEO 1](https://img.youtube.com/vi/w8bV-NbThaw/0.jpg)](https://www.youtube.com/watch?v=w8bV-NbThaw)
+[![VIDEO 2](https://img.youtube.com/vi/XmQxOzOqzXs/0.jpg)](https://www.youtube.com/watch?vXmQxOzOqzXs)
+
+
+<h2>💯 My previous work:</h2>
+<h4>#Supply Chain Management using Blockchain</h4>
 
 <h2>👀 Stats</h2>
 
